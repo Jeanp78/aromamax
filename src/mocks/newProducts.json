@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Zapatos deportivos",
+    "description": "Zapatos deportivos de última generación, ideales para correr y hacer ejercicio."
+  },
+  {
+    "id": 2,
+    "name": "Teléfono inteligente",
+    "description": "Teléfono inteligente con cámara de alta resolución y pantalla táctil."
+  },
+  {
+    "id": 3,
+    "name": "Auriculares inalámbricos",
+    "description": "Auriculares inalámbricos con cancelación de ruido, perfectos para escuchar música en movimiento."
+  },
+  {
+    "id": 4,
+    "name": "Portátil ultradelgado",
+    "description": "Portátil ultradelgado con procesador rápido y pantalla de alta definición."
+  },
+  {
+    "id": 5,
+    "name": "Cámara digital",
+    "description": "Cámara digital compacta con zoom óptico potente y grabación de video en 4K."
+  },
+  {
+    "id": 6,
+    "name": "Tableta",
+    "description": "Tableta con pantalla retina y lápiz óptico incluido para tomar notas y dibujar."
+  },
+  {
+    "id": 7,
+    "name": "Reloj inteligente",
+    "description": "Reloj inteligente con monitoreo de actividad física y notificaciones inteligentes."
+  },
+  {
+    "id": 8,
+    "name": "Altavoz Bluetooth",
+    "description": "Altavoz Bluetooth portátil con sonido envolvente y resistente al agua."
+  },
+  {
+    "id": 9,
+    "name": "Drone",
+    "description": "Drone con cámara HD y estabilización de vuelo para capturar imágenes aéreas impresionantes."
+  },
+  {
+    "id": 10,
+    "name": "Impresora multifunción",
+    "description": "Impresora multifunción que imprime, escanea y copia con conectividad inalámbrica."
+  },
+  {
+    "id": 11,
+    "name": "Consola de videojuegos",
+    "description": "Consola de videojuegos con gráficos de alta calidad y acceso a una amplia biblioteca de juegos."
+  },
+  {
+    "id": 12,
+    "name": "Mochila resistente",
+    "description": "Mochila resistente con compartimentos acolchados para transportar dispositivos electrónicos de forma segura."
+  },
+  {
+    "id": 13,
+    "name": "Teclado mecánico",
+    "description": "Teclado mecánico con retroiluminación LED y teclas programables para una experiencia de escritura mejorada."
+  },
+  {
+    "id": 14,
+    "name": "Ratón ergonómico",
+    "description": "Ratón ergonómico con sensor óptico de alta precisión y diseño cómodo para largas sesiones de trabajo."
+  },
+  {
+    "id": 15,
+    "name": "Manta eléctrica",
+    "description": "Manta eléctrica suave y cálida con ajuste de temperatura para mantenerse abrigado en los días fríos."
+  }
+]
